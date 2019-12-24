@@ -1,0 +1,22 @@
+﻿  P8.cpp
+c:\users\taruc\desktop\p8\p8\p8.cpp(161): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(162): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(163): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(168): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(169): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(170): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(174): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(175): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(179): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(180): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(353): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(354): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(355): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(356): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(389): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(415): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(416): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(417): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+c:\users\taruc\desktop\p8\p8\p8.cpp(418): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  P8.vcxproj -> C:\Users\TARUC\Desktop\P8\Debug\P8.exe
+  P8.vcxproj -> C:\Users\TARUC\Desktop\P8\Debug\P8.pdb (Partial PDB)
